@@ -7,4 +7,5 @@ Here I'll keep list of my commits and cherry-picked commits for reference.
  b) https://github.com/baljeethakur/android_frameworks_base/commit/ec2b84d55e1f4e9a01371fdd84ca395ac177cd79
  c) https://github.com/baljeethakur/android_frameworks_base/commit/fc72c6c55fb89fc4031311c5260791ab2a0b7c19
  
-2. 
+2. Add more options to Alert Slider (OnePlus)
+   https://github.com/baljeethakur/android_device_oppo_common/commit/157ba7c3cfc3840347f640b019ac22c6fecd870a
