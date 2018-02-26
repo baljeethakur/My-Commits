@@ -11,7 +11,7 @@ Here I'll keep list of my commits and cherry-picked commits for reference.
    https://github.com/baljeethakur/android_device_oppo_common/commit/157ba7c3cfc3840347f640b019ac22c6fecd870a
 
 3. OMS Sysserv and Exposure
- Framework
+   Framework
  a) https://github.com/baljeethakur/android_frameworks_base/commit/9eac42a867816a85d07c1c29d21b1de29ed44a79
  b) https://github.com/baljeethakur/android_frameworks_base/commit/be0a88ebd2cd7c0c9ab7f6bbb6cf1f231916d246
  c) https://github.com/baljeethakur/android_frameworks_base/commit/9fd8db07614758dd09445e41768d2e0d4ab1173b
@@ -21,5 +21,10 @@ Here I'll keep list of my commits and cherry-picked commits for reference.
  g) https://github.com/baljeethakur/android_frameworks_base/commit/e6bd06d54e968630b979f3657d64cb0f9f283fd8
  h) https://github.com/baljeethakur/android_frameworks_base/commit/b946f0a103116d244549f8e461da169ad1192bd2
  i) https://github.com/baljeethakur/android_frameworks_base/commit/4b876a5c1c65b07083ccaaa2b89c3ce6ee452157
- Settings
- 
+   
+   Settings
+ a) https://github.com/baljeethakur/android_packages_apps_Settings/commit/f8d0697f98feba072fa63f239d4c70e6413eae59
+
+4. Alert Slider Options
+ a) https://github.com/baljeethakur/android_device_oppo_common/commit/157ba7c3cfc3840347f640b019ac22c6fecd870a
+   
